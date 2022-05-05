@@ -1,0 +1,22 @@
+{
+  "name": "second-project",
+  "version": "1.0.0",
+  "description": "Secnd project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Venkateshwaran-M/Nodejs-study.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "venkateshwaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Venkateshwaran-M/Nodejs-study/issues"
+  },
+  "homepage": "https://github.com/Venkateshwaran-M/Nodejs-study#readme"
+}
